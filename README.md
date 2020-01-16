@@ -1,1 +1,3 @@
 # seminar
+
+Thursday group meetings
