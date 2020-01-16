@@ -1,4 +1,4 @@
-# seminar
+# Seminar
 
 Thursday group meetings
 
