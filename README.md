@@ -2,4 +2,4 @@
 
 Thursday group meetings
 
-[Wiki](https://github.com/oxspmlg/seminar/wiki)
+[wiki](https://github.com/oxspmlg/seminar/wiki)
