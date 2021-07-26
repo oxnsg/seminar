@@ -1,4 +1,4 @@
-# Seminar
+# seminar
 
 weekly group meetings
 
